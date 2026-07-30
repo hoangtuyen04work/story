@@ -1,0 +1,121 @@
+{
+  "novel": "Hạt Giống Tiến Hóa",
+  "mode": "authorized_continuation",
+  "phase": "drafting",
+  "target_chapters": 1800,
+  "target_range": [1500, 2000],
+  "last_canon_chapter": 260,
+  "current_batch": [251, 260],
+  "chapters_completed_in_batch": [251, 252, 253, 254, 255, 256, 257, 258, 259, 260],
+  "active_arc": "Thành phố đầu tiên tại Thị Nại",
+  "next_major_destination": "Bình Định",
+  "debts": [
+    {
+      "trigger": "Chương 190 và 200: Trạm số Năm phát tín hiệu cầu cứu và cảnh báo Người Gác Đèn",
+      "affected": ["ch_201+", "AUTHOR_ONLY_STORY_LEDGER.md"],
+      "status": "active"
+    },
+    {
+      "trigger": "Chương 190: Dương bị thu hồi",
+      "affected": ["future_arc"],
+      "status": "deferred"
+    },
+    {
+      "trigger": "Chương 185–191: tiểu Quang chết và được an táng",
+      "affected": ["Hân", "tiểu Dương", "team_morale"],
+      "status": "active"
+    },
+    {
+      "trigger": "Chương 198: Phoenix I tự hạ mức cảnh báo",
+      "affected": ["Hiếu", "Phoenix I", "future_technology_arc"],
+      "status": "active"
+    },
+    {
+      "trigger": "Chương 199–200: thiết bị nghe lén bán sinh học",
+      "affected": ["Trạm số Năm", "Người Gác Đèn", "Project X"],
+      "status": "active"
+    },
+    {
+      "trigger": "Chương 201–207: loài Câm săn tín hiệu và Câm chúa dung hợp thiết bị",
+      "affected": ["mạng Trạm", "thiết bị bán sinh học", "future_arc"],
+      "status": "open"
+    },
+    {
+      "trigger": "Chương 209–210: dữ liệu An Sơn và cha mẹ Dũng",
+      "affected": ["ch_211+", "Người Gác Đèn", "lời hứa của Đức"],
+      "status": "resolved_to_next_clue"
+    },
+    {
+      "trigger": "Chương 227: phiếu chuyển Thị Nại và chiếc ná",
+      "affected": ["ch_231+", "Trạm số Năm", "cha mẹ Dũng"],
+      "status": "active"
+    },
+    {
+      "trigger": "Chương 224–229: nhóm giả mạo ba tia trốn với dữ liệu",
+      "affected": ["mạng Người Gác Đèn", "Project X", "bản đồ đá"],
+      "status": "open"
+    },
+    {
+      "trigger": "Chương 230: điểm thứ sáu di chuyển",
+      "affected": ["ch_231+", "Hạt giống"],
+      "status": "resolved_to_tram_06"
+    },
+    {
+      "trigger": "Chương 233: mô sống bám liên kết Lan–Mộng Điệp",
+      "affected": ["Lan", "Mộng Điệp", "future_healing_arc"],
+      "status": "active"
+    },
+    {
+      "trigger": "Chương 234–240: Phoenix tự chọn kết nối, mất ký ức trực thăng và dùng sai lầm làm khóa",
+      "affected": ["Hiếu", "Phoenix I", "Trạm số Năm"],
+      "status": "active"
+    },
+    {
+      "trigger": "Chương 237–240: lõi lọc Trạm 06 được mang tới Thị Nại",
+      "affected": ["ch_241+", "Trạm số Năm", "An Sơn"],
+      "status": "active"
+    },
+    {
+      "trigger": "Chương 239: Thư từng thấy người mang ná Đ–D",
+      "affected": ["cha mẹ Dũng", "điểm nổi", "ch_241+"],
+      "status": "active"
+    },
+    {
+      "trigger": "Chương 246: Mộng Điệp làm nhiễm mẫu chẩn đoán",
+      "affected": ["Lan", "Mộng Điệp", "medical_protocol"],
+      "status": "active"
+    },
+    {
+      "trigger": "Chương 249: jeep bị mất khi vượt cửa nước",
+      "affected": ["convoy", "fuel", "mobility"],
+      "status": "irreversible"
+    },
+    {
+      "trigger": "Chương 250: cha mẹ Dũng từng vào tầng máy và bóng chống gậy xuất hiện",
+      "affected": ["ch_251+", "Người Gác Đèn", "Trạm số Năm"],
+      "status": "resolved_to_nguoi_gac_den"
+    },
+    {
+      "trigger": "Chương 259: quyền Trạm 05 được chia cho ít nhất bốn nhóm",
+      "affected": ["city_governance", "Mầm Triều", "ch_261+"],
+      "status": "active"
+    },
+    {
+      "trigger": "Chương 260: lời mời thành lập điểm giao dịch cấp thành phố",
+      "affected": ["ch_261+", "M.T.C", "city_arc"],
+      "status": "active"
+    },
+    {
+      "trigger": "Chương 260: chấm ngoài Trái Đất xuất hiện",
+      "affected": ["future_era"],
+      "status": "deferred"
+    }
+  ],
+  "pipeline": {
+    "load_layers": true,
+    "adjacent_context": true,
+    "foreshadowing_ledger": true,
+    "mechanical_review": "passed_191_260",
+    "continuity_review": "passed_191_260"
+  }
+}
