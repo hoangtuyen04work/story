@@ -139,6 +139,30 @@ Nguồn gốc Hạt giống được hé lộ đầy đủ. Những lời giải
 | F36 | Bốn khóa cộng đồng kiểm soát Trạm 05 | 259 | chính trị thành phố | 261–480 |
 | F37 | Lời mời điểm giao dịch cấp thành phố | 260 | xây thành | 261–350 |
 | F38 | Chấm bản đồ ngoài Trái Đất | 260 | mở rộng thế giới | 600+ |
+| F39 | Năm điều kiện điểm giao dịch thành phố | 264 | xây thành | 261–350 |
+| F40 | Kho nổi trong vùng triều chết | 266 | vật tư/người sống | 281–310 |
+| F41 | Ổ sao lưu Phoenix cũ bị niêm phong | 267 | quyền AI/bản thể | 300+ |
+| F42 | Mộng Điệp tự chọn cứu Định | 277 | nguồn gốc Mộng Điệp | 281–450 |
+| F43 | Hiến chương mạng ba cộng đồng | 279 | chính trị liên thành | 300–480 |
+| F44 | Bệnh hạt trong suốt | 280 | thành Bảy Cửa | 281–320 |
+| F45 | Hai xe phải chọn tháo một để cứu một | 280 | kho nổi/khả năng cơ động | 281–300 |
+| F46 | Nguồn bệnh hạt kính từ Project X/Bảy Cửa | 281–300 | chính trị Bảy Cửa | 301–420 |
+| F47 | Lan mất liên kết năng lượng với Mộng Điệp | 288 | bản ngã Mộng Điệp | 301–450 |
+| F48 | Bảo mất tích trong triều chết | 296–299 | Ly/kho nổi | 350+ |
+| F49 | Cán bộ Project X nối hai hồ sơ | 295–300 | bố Đức/Bảy Cửa | 301–500 |
+| F50 | Bảy Cửa kích hoạt điểm giao dịch cấp 1 | 300 | cạnh tranh liên thành | 301–480 |
+| F51 | Tài khoản Q-7/Quản tuyến Bảy | 305–309 | cái chết bố Đức | 321–550 |
+| F52 | Đề nghị khu phụ thuộc Bảy Cửa | 307–310 | chia rẽ nội bộ | cuối hiệp ước ba tháng |
+| F53 | Nợ lao động qua cổng M.T.C | 302, 308 | kinh tế thành phố | 321–480 |
+| F54 | Phượng, Phoenix được khởi động từ bản sao cũ | 314–316 | quyền AI | dài hạn |
+| F55 | Mộng Điệp ở trong Mầm Triều | 317 | nguồn gốc/bản ngã | 321–450 |
+| F56 | Lồng quản trị có kênh điều trần | 318–319 | quyền thực thể nguy hiểm | 321–480 |
+| F57 | Phí khu vực 2% của thành phố đầu tiên | 320 | chiến tranh kinh tế | 321–360 |
+| F58 | Sổ nợ lao động có tên Hảo | 324–330 | cải cách kinh tế | 341–480 |
+| F59 | Quyền trọng tài thiên vị thành phố được công nhận | 322–328 | luật M.T.C | 400+ |
+| F60 | Phượng ở lại An Sơn với trực thăng | 327–339 | AI/công nghệ | 341–420 |
+| F61 | Khu vệ tinh Cồn Sắt | 333–338 | mạng thành phố | 341–480 |
+| F62 | Câm chúa lần theo tuyến bạc | 326, 340 | phòng thủ mạng liên thành | 341–370 |
 
 ## Trạng thái sau chương 200
 
@@ -201,6 +225,56 @@ Nguồn gốc Hạt giống được hé lộ đầy đủ. Những lời giải
 - Chương 261 ưu tiên hậu quả đời sống: nước, nơi ở, bệnh, luật, lao động, đại diện cộng đồng và hai chiếc xe hỏng. Không mở bằng boss mới.
 - Lời mời “điểm giao dịch cấp thành phố” là mục tiêu trung hạn, không được mua ngay.
 - Chấm ngoài Trái Đất chỉ là hạt gieo xa; không đưa nhân vật rời Trái Đất trong Kỷ nguyên II.
+
+## Trạng thái sau chương 280
+
+- Điểm giao dịch thành phố mới ở 13% sau bão. Không tăng nhanh bằng việc nhận người bệnh hoặc mua tài nguyên từ M.T.C.
+- Dân số lõi 214 không gồm An Sơn/Xóm Vẹt và chưa gồm 26 người Bảy Cửa. Việc cư trú phải tự nguyện sau cách ly.
+- Hai nguồn lương thực vẫn 0/2. Mầm cây là tiến triển, không phải thu hoạch.
+- Đồng hồ nước đã đặt lại; chương sau phải theo dõi số ngày từ 1/30.
+- Hai xe không hoạt động. Quyết định tháo chiếc nào là xung đột thật, không để Hiếu sửa cả hai bằng phụ tùng bất ngờ.
+- Người Gác Đèn chưa có phán quyết cuối. Hồ sơ bố Đức phải được kiểm chứng trước khi mở tuyến trả thù.
+- Phoenix có quyền tạm thời; ổ sao lưu cũ là một cá thể tiềm năng, không được bật như công cụ.
+- Mộng Điệp đã hành động độc lập và cứu Định vì liên hệ mô. Không để Lan nhanh chóng kiểm soát lại.
+- Chương 281 mở bằng cách ly đoàn Bảy Cửa và căn bệnh mới. Không tính họ thành dân số để lấy tiến độ.
+- Kho nổi là mục tiêu 281–310, nhưng cần bản đồ triều và giải quyết bệnh trước khi tổ chức chuyến đi.
+
+## Trạng thái sau chương 300
+
+- Dân số lõi 237. Năm người kho nổi chưa tính; Ly còn trong điều trị. Không cộng họ trước khi cách ly và lựa chọn cư trú.
+- Nước 18/30, lương thực 1/2, hiến chương đạt, an toàn quản trị chưa đạt, tiến độ 24%.
+- Không có xe đường bộ hoạt động. Thánh Gióng II là ụ pháo; xe tải hỏng hộp số. Vòng bi nứt chỉ đủ cho một ưu tiên sau khi kiểm định.
+- Bảy Cửa đã là điểm giao dịch cấp 1. Kỷ nguyên II từ đây có cạnh tranh luật, thương mại và dân cư, không chỉ cạnh tranh sức mạnh.
+- Không biến toàn bộ Bảy Cửa thành phản diện. Kha, hội đồng, người bệnh và cán bộ Project X có lợi ích khác nhau.
+- Lan chưa dùng được năng lực Mộng Điệp. Thực thể vẫn tự do hành động; việc nối lại phải thay đổi quan hệ, không chỉ hồi phục kỹ năng.
+- Bảo là mất tích, không xác nhận chết. Ly có quyền giữ hy vọng cho tới khi có bằng chứng.
+- Hồ sơ về bố Đức phải trải qua xác minh và xung đột đạo đức trước khi dẫn tới trả thù.
+- Chương 301 mở bằng đề nghị đàm phán của Bảy Cửa, trong khi Ly còn điều trị và khu định cư thiếu phương tiện.
+
+## Trạng thái sau chương 320
+
+- Dân số sống chính xác là 240. Không dùng lại 237 hoặc 242; ông Phụng chỉ còn trên bảng tưởng niệm.
+- Nước và hai nguồn lương thực đã đạt. An toàn quản trị mới 1/30 ngày; một lỗi Mầm Triều đặt lại đồng hồ.
+- Tiến độ 68%; còn thiếu 60 cư dân tự nguyện. Không tuyển hoặc ép nhập cư để lấp số.
+- Bảy Cửa có quyền hệ thống đề xuất phí 2%. Xung đột kế tiếp ưu tiên kinh tế/pháp lý trước chiến đấu.
+- Hiệp ước ba tháng vẫn còn hiệu lực và giới hạn nước dư 5%. Không để phí mới tự động xóa hợp đồng cũ.
+- Phượng và Phoenix là hai cá thể. Không hợp nhất, tắt hoặc sao chép một người nếu chưa có lựa chọn của chính họ.
+- Phượng muốn tới An Sơn; hành trình cần giải quyết phương tiện vì xe tải mới lắp hộp số nhưng chưa thử.
+- Mộng Điệp ở trong Mầm Triều, Lan chỉ có sợi vị trí. Không phục hồi năng lực chữa tiện lợi.
+- Người Gác Đèn đang thi hành bồi hoàn, không giữ khóa. Túc và Q-7 là tuyến điều tra, chưa phải mục tiêu trả thù trực tiếp.
+- Chương 321 mở từ thông báo phí 2% và phản ứng của các giao dịch đang mắc nợ.
+
+## Trạng thái sau chương 340
+
+- Dân số lõi 270, còn thiếu 30. Không cộng 37 người khu vệ tinh hoặc Phượng như cư dân lõi khi đang ở An Sơn.
+- Quản trị 21/30. Tuyến Câm sắp tới không được tùy tiện đặt lại đồng hồ nếu lồng Mầm không lỗi; phân biệt an toàn quản trị với an toàn quân sự.
+- Tiến độ 78%. Nước, lương thực và hiến chương vẫn đạt.
+- Phí đã giảm thành 1% với điều kiện công khai. Xung đột nợ lao động và quyền trọng tài chưa đóng.
+- Bảy người gồm Khôi vẫn giữ đề nghị khu phụ thuộc tới cuối hiệp ước ba tháng.
+- Phượng ở An Sơn tự nguyện; Phoenix ở Thị Nại. Không dịch chuyển hoặc sao chép tức thời giữa hai nơi.
+- Xe tải đã về Thị Nại nhưng hộp số cần kiểm tra; không coi là phương tiện chiến đấu đáng tin.
+- Khu vệ tinh Cồn Sắt cần nước, phòng thủ và ghế đại diện dài hạn. Không dùng họ như nguồn dân dự phòng.
+- Câm chúa trở lại với một cánh yếu. Tuyến 341 mở bằng việc cảnh báo ba cộng đồng, ưu tiên bảo vệ người và hạ tầng tín hiệu thay vì boss fight đơn lẻ.
 
 ## Quy tắc chống quên
 

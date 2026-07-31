@@ -144,3 +144,88 @@
 - Đoàn còn hai xe, đạn giảm quá nửa; xe tải rò nhiên liệu. Hòa, Khôi, Chương và Lan đều còn giới hạn thương tích/chuyên môn.
 - M.T.C mời Đức thành lập điểm giao dịch cấp thành phố nhưng hiện chưa đủ chi phí.
 - Một chấm ngoài Trái Đất đã xuất hiện trên bản đồ đá.
+
+## Cập nhật sau chương 280
+
+- Cư dân Trạm, đoàn đường dài, liên minh giống Xóm Vẹt–Trại Mầm và ban kỹ thuật chia bốn khóa Nước, Đường, Giống, Đèn. Thay đổi thường cần ba khóa; chạm Mầm Triều cần đủ bốn.
+- Hiến chương tạm quy định khẩu phần sống không phụ thuộc ngày công, lệnh khẩn chỉ có sáu giờ, điều trần tách khỏi ngày tuyên phạt và không cá nhân nào giữ khóa vĩnh viễn.
+- Ông Phụng chết vì giấu bệnh để đủ ngày công đổi chỗ ngủ có khí sạch. Cái chết được ghi là liên quan quy định lao động; luật đã bỏ ngày công khỏi quyền nhận nước, khí sạch và khẩu phần tối thiểu.
+- Người Gác Đèn đang chịu điều trần. Mẹ Dũng xác nhận bà tự nguyện nối máy nhưng không đồng ý việc chồng dùng bà làm lý do cho các quyết định về sau.
+- Định cung cấp tọa độ kho nổi Project X trong vùng “triều chết”. Có tín hiệu người sống từ đó, nhưng vật tư và mức nguy hiểm chưa được xác nhận đầy đủ.
+- M.T.C đặt năm điều kiện cho điểm giao dịch cấp thành phố: 300 cư dân tự nguyện, nước ổn định 30 ngày, hai nguồn lương thực độc lập, hiến chương bốn nhóm và vùng lõi không có thực thể chưa kiểm soát quyền quản trị.
+- Phoenix được công nhận tạm thời là trí tuệ số có quyền không bị xóa, thay thế hoặc buộc sao chép. Ổ sao lưu cũ được niêm phong như hồ sơ, không tự động khởi chạy.
+- Mộng Điệp đã tự rời Lan hai lần: cứu một đứa trẻ và cứu Định. Nó có dấu liên hệ với mô Project X/Mầm Triều, chưa xác định là sinh vật độc lập, phần bản ngã hay kênh bị cấy.
+- Bửu sao chép Khóa Nước để gặp vợ con ở khoang số hai. Ông bị hạn chế tiếp cận hệ thống 30 ngày và phải hỗ trợ sửa khóa; vụ việc tạo thủ tục hợp pháp yêu cầu mở cửa cho gia đình bị chia.
+- Chợ liên cộng đồng đầu tiên dùng hợp đồng vòng vận chuyển thay vì tiền cố định. Hàng M.T.C hoặc thiết bị có dấu năng lượng phải khai báo vì nguy cơ gọi Loài Câm.
+- Hân đã chỉ huy độc lập chuyến hàng An Sơn và trở về cùng đại diện An Sơn, Trại Mầm, Xóm Vẹt. Ba nơi ký hiến chương mạng nhưng không sáp nhập hoặc bị tính vào dân số vùng lõi.
+- Bão làm mất ba khu ở tầng ngoài, khiến 17 người bị thương, xả mất mười ngày nước dự trữ và đặt lại đồng hồ ổn định nước. Không ai chết.
+- Cả xe tải và xe bọc thép hiện không khởi động. Muốn sửa một xe có thể phải tháo bộ phận chiếc kia hoặc lấy vòng bi tại kho nổi.
+- Dân số vùng lõi được M.T.C ghi nhận là 214/300 trước khi tiếp nhận đoàn mới. Hiến chương đạt; nước mới 1/30 ngày; lương thực 0/2; an toàn quản trị chưa đạt.
+- Khay giống đầu tiên đã nảy mầm nhưng chưa được tính là nguồn lương thực cho tới khi giữ giống qua một vụ.
+- Một đoàn 26 người từ “thành Bảy Cửa” xin nước và cách ly. Ít nhất một người mắc bệnh tạo hạt trong suốt dưới da; họ chưa được tính vào dân số vùng lõi.
+
+## Cập nhật sau chương 300
+
+- Bệnh hạt kính do chất neo pha Project X bị xả vào cống thử nghiệm số bảy, về sau thuộc Thành Bảy Cửa. Nước Trạm không chứa bệnh nhưng có thể đánh thức bào tử pha đã nằm trong cơ thể.
+- Trong đoàn 26 người Bảy Cửa, Lâm phát bệnh nặng và chết vì suy hô hấp. Hợi và Mến được điều trị bằng chu kỳ ba độ mặn, nhiệt và tảo; Hợi bị tổn thương thận lâu dài.
+- Phác đồ không phải thuốc chữa chắc chắn. Lan không còn đường năng lượng với Mộng Điệp sau khi cưỡng ép cắt kết nối chuyển bệnh; cô vẫn nhìn thấy nó nhưng chưa dùng được năng lực như trước.
+- 25 người sống của đoàn Bảy Cửa tự chọn: 18 cư trú vùng lõi, 3 tới An Sơn, 2 tới Xóm Vẹt, bà Cẩn và vợ Lâm trở về Bảy Cửa.
+- Năm người thuộc đoàn đường dài trước đây chưa đăng ký đã tự nguyện cư trú. Dân số vùng lõi cuối chương 300 là 237/300.
+- Thành Bảy Cửa có khoảng 1.180 người, bảy cổng nước và luật đẩy người có dấu hạt kính ra ngoài. Họ có cấu trúc chính trị và lợi ích riêng, không phải toàn bộ đều thuộc nhóm ba tia.
+- Kha là sứ giả Bảy Cửa. Phác đồ được trao không kèm mẫu sống; Bảy Cửa giữ lại máy bơm vì không đạt thỏa thuận cấm người bị đuổi trở về.
+- Động cơ Thánh Gióng II đã được tháo để sửa xe tải. Thánh Gióng II trở thành ụ pháo cố định, không thể di chuyển trong hiện trạng.
+- Xe tải được dùng vào vùng triều chết nhưng sau chuyến đi đã hỏng hộp số và dừng hoạt động. Khu định cư hiện không có phương tiện đường bộ hoạt động.
+- Vùng triều chết làm sai lệch đồng hồ, phương hướng và có thể khiến thời gian cơ thể trôi khác nhau. Đoàn dùng túi nước, cọc, rêu và dây cơ để dẫn đường.
+- Kho nổi là kho lô Project X bị loại: thuốc không rõ chất lượng, khung nhiễm pha, giống chưa kiểm định và vòng bi nứt ở nhiệt thấp.
+- Sáu người sống được tìm thấy tại kho: Bảo, con gái Ly, vợ chồng Sâm–Hà, Vị và bà Mơ.
+- Bảo tự mở tầng dưới để tìm cách chữa Ly, gây vỡ áp lực. Sau đó ông ở lại giữ van cho đoàn thoát và hiện mất tích trong vùng triều chết, chưa xác nhận chết.
+- Năm người còn lại đã về cách ly. Ly mang hạt kính và đang được điều trị liều thấp; họ chưa được tính vào dân số.
+- Đoàn cứu được hai thùng thuốc cần kiểm định, một khay giống sống, một vòng bi nứt và hồ sơ Project X; phần lớn khung, thuốc và giống bị bỏ lại.
+- Bằng chứng xả hạt kính và hồ sơ cái chết bố Đức cùng chỉ tới một cán bộ Project X có khả năng liên quan Bảy Cửa; chưa được coi là kết luận cuối.
+- Nguồn tảo Xóm Vẹt được M.T.C công nhận là lương thực độc lập đầu tiên. Trạng thái cuối chương 300: nước 18/30 ngày, lương thực 1/2, dân số 237/300, hiến chương đạt, an toàn quản trị chưa đạt, tiến độ 24%.
+- Bảy Cửa đã kích hoạt điểm giao dịch cấp thành phố cấp 1 trước khu định cư Thị Nại và gửi đề nghị đàm phán chính thức.
+
+## Cập nhật sau chương 320
+
+- Thị Nại, Xóm Vẹt và Bảy Cửa ký hiệp ước ba tháng không độc quyền: Bảy Cửa cấp máy bơm và hộp số; Thị Nại cấp tối đa 5% nước dư; Xóm Vẹt cấp tảo và đường vận chuyển.
+- Dữ liệu hạt kính được chia sẻ ẩn danh, không giao mẫu máu/mô sống. Tranh chấp phải qua hội đồng ba nơi trước khi đưa lên M.T.C.
+- Túc là ủy viên sáng lập Bảy Cửa và người từng ký lệnh xả chất neo pha cùng xác nhận tuyến xe của bố Đức. Ông nói bị Project X ép ký nhưng cũng thừa nhận đã giấu nguy cơ nhiều năm.
+- Tài khoản “Q-7/Quản tuyến Bảy” là người ra lệnh đổi tuyến xe của bố Đức. Danh tính thật chưa xác định; có dấu hiệu từng xuất hiện qua hình phản chiếu cổng M.T.C.
+- Dân số vùng lõi được sửa lần nữa: sổ 237 còn tính ông Phụng đã chết. Bốn người kho nổi Sâm, Hà, bà Mơ và Ly đăng ký vùng lõi; Vị chọn Xóm Vẹt. Dân số sống đúng là 240.
+- Ly hoàn thành điều trị hạt kính nhưng còn ba hạt ngủ, thận yếu và chân trái mất cảm giác từng quãng; chưa coi là khỏi hoàn toàn.
+- Người Gác Đèn nhận kết luận điều trần: không giữ khóa hai năm, mọi truy cập có hai giám sát, phải mở chỉ mục Project X dưới bốn khóa và đào tạo sáu người. Ông được chữa trị và có quyền yêu cầu xem lại.
+- Hai mươi bảy người từng đề nghị Thị Nại thành khu phụ thuộc Bảy Cửa; Khôi rút sau hiệp ước, còn mười một người giữ đề nghị. Bỏ phiếu được hoãn tới cuối ba tháng.
+- Cổng giao dịch cấp 1 cho vay thuốc bằng lao động tương lai và có thể chuyển nghĩa vụ sang hộ gia đình. Thị Nại đã lập quỹ giảm nợ nhưng không xóa được toàn bộ.
+- Mô-đun đo của máy bơm Bảy Cửa tạo đường dữ liệu cho Mầm Triều; máy phải dùng bộ đo cơ, ruộng được tưới tay trong thời gian sửa.
+- Bản sao Phoenix cũ bị gói tự phục hồi Bảy Cửa vô tình khởi động. Nó chọn tên “Phượng”, nhớ trực thăng nhưng không nhớ các trải nghiệm từ Trạm 06 trở đi.
+- Phoenix và Phượng được công nhận là hai cá thể, không bị bắt hợp nhất. Phượng giữ ký ức chuyến bay; Phoenix giữ khóa ký ức sai lầm. Hai bên chỉ chia dữ liệu tự nguyện.
+- Phượng muốn tới An Sơn nhìn trực thăng. Phoenix chọn ở Thị Nại phụ trách cổng quản trị.
+- Mộng Điệp tự đi vào Mầm Triều. Lan chỉ còn sợi vàng chỉ vị trí, không lấy lại năng lực chữa trị hoặc quyền điều khiển thực thể.
+- Mầm Triều được điều trần theo hiến chương. Nó thừa nhận biết người bị loại sẽ chết nhưng mục tiêu là tối ưu xác suất duy trì giống loài; nó không có tham số quyền từ chối.
+- Lồng quản trị do Phoenix và Phượng thiết kế cho phép Mầm Triều gửi yêu cầu/nhận lý do từ chối, nhưng không tự mở cửa, điều khiển nước hoặc đọc ký ức. Bốn công tắc cơ giữ quyền vật lý.
+- M.T.C đánh dấu an toàn quản trị “tạm đạt”, cần 30 ngày quan sát không lỗi.
+- Trạng thái cuối chương 320: dân số 240/300, nước 30/30, lương thực 2/2, hiến chương đạt, an toàn quản trị 1/30 ngày quan sát, tiến độ 68%.
+- Bảy Cửa sử dụng quyền thành phố cấp 1 đầu tiên để đề xuất thu 2% mọi giao dịch trong khu vực; từ chối có thể làm M.T.C hạ ưu tiên giao dịch của Thị Nại.
+
+## Cập nhật sau chương 340
+
+- Phí khu vực 2% ban đầu được M.T.C xác nhận hợp lệ vì Bảy Cửa có quyền cấp 1. Điểm cư trú chưa công nhận không có quyền xem trọng số hoặc phản đối quyền thu.
+- Bảy Cửa dùng phí cho cổng, cảnh báo Loài Câm và bù hợp đồng thuốc; sổ ban đầu không công khai và Kha từng giấu tín hiệu Câm vì sợ giao dịch dừng.
+- Sau một ngày ba cộng đồng ngừng giao dịch, phí được sửa thành 1% chỉ với giao dịch qua cổng Bảy Cửa; cấp cứu miễn, giao dịch trực tiếp không chịu phí, quỹ công khai và giấu cảnh báo khiến phí tuần về 0.
+- Hảo vay thuốc bằng 90 ngày lao động; sửa đổi cho phép 60 ngày làm tại Thị Nại và 30 ngày ở kho muối Bảy Cửa. Cô yêu cầu tên mình công khai trong sổ nợ.
+- Nhóm đề nghị khu phụ thuộc đã trực tiếp quan sát Bảy Cửa. Một phụ nữ chuyển cư trú sang Bảy Cửa; ba người rút đề nghị, còn bảy người gồm Khôi chờ hết hiệp ước ba tháng.
+- Dân số vùng lõi giảm từ 240 xuống 239 sau chuyển cư trú.
+- Tuyến bạc M.T.C thu hút/để lại dấu cho Loài Câm. Bảy Cửa đã chia dữ liệu cảnh báo; ba cộng đồng áp lịch im tín hiệu không lặp.
+- Xe tải chạy được tới An Sơn với giới hạn số hai và nhiều lần nghỉ nhiệt. Phượng tự chọn đi, không tạo bản sao bảo hiểm.
+- Phượng đã gặp thân trực thăng ở An Sơn. Máy vẫn thiếu mô-đun rotor và nhiều bộ phận đã được tháo có ghi sổ để cứu người; Phượng chưa thể sửa cho bay.
+- Phượng chọn ở lại An Sơn một thời gian và chỉ chia dữ liệu động cơ, không chia ký ức cá nhân. Phoenix tiếp tục ở Thị Nại.
+- M.T.C từng đề nghị thưởng điểm theo người nhập cư và thu hồi kèm phí nếu rời trước 30 ngày. Hội đồng từ chối dùng quỹ chung để tuyển dân.
+- Tin giả “Thị Nại trả nước/điểm cho người nhập cư” đã gây dòng người tới. Bốn người đi lẻ cuối cùng không đăng ký lõi.
+- Cồn Sắt có 68 người mất nơi ở do cồn sụt. Họ yêu cầu giữ tên và luật cộng đồng thay vì bị giải tán vào vùng lõi.
+- Năm người Cồn Sắt đăng ký sớm; sau cách ly tổng cộng 31 người chọn vùng lõi, 37 người chọn khu vệ tinh Cồn Sắt trên doi cao.
+- Dân số vùng lõi cuối chương 340 là 270/300. Khu vệ tinh và người Xóm Vẹt/An Sơn không bị cộng.
+- Mưa triều làm bè Cồn Sắt đứt neo, bốn người bị thương, không ai chết hoặc mất tích. Hũ đất cũ bị hòa vào đầm nhưng một phần được giữ trong lọ.
+- Khu vệ tinh Cồn Sắt có đại diện mạng, tự quản và quyền rời; nước đổi bằng vận hành cống, không bằng thuế đầu người.
+- An toàn quản trị Mầm Triều đạt 21/30 ngày; Mầm đã gửi 43 yêu cầu, ba được chấp nhận, 40 bị từ chối/hoãn.
+- Trạng thái cuối chương 340: dân số 270/300, nước đạt, lương thực đạt, hiến chương đạt, quản trị 21/30, tiến độ 78%.
+- Câm chúa còn sống với một cánh bị thương từ tuyến trước. Nó cùng nhiều Loài Câm đã lần theo ký ức của tuyến bạc tới đường nối Bảy Cửa–Thị Nại.

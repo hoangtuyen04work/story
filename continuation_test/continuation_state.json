@@ -4,11 +4,11 @@
   "phase": "drafting",
   "target_chapters": 1800,
   "target_range": [1500, 2000],
-  "last_canon_chapter": 260,
-  "current_batch": [251, 260],
-  "chapters_completed_in_batch": [251, 252, 253, 254, 255, 256, 257, 258, 259, 260],
-  "active_arc": "Thành phố đầu tiên tại Thị Nại",
-  "next_major_destination": "Bình Định",
+  "last_canon_chapter": 340,
+  "current_batch": [321, 340],
+  "chapters_completed_in_batch": [321, 322, 323, 324, 325, 326, 327, 328, 329, 330, 331, 332, 333, 334, 335, 336, 337, 338, 339, 340],
+  "active_arc": "Loài Câm trên tuyến bạc",
+  "next_major_destination": "Bảy Cửa",
   "debts": [
     {
       "trigger": "Chương 190 và 200: Trạm số Năm phát tín hiệu cầu cứu và cảnh báo Người Gác Đèn",
@@ -109,13 +109,88 @@
       "trigger": "Chương 260: chấm ngoài Trái Đất xuất hiện",
       "affected": ["future_era"],
       "status": "deferred"
+    },
+    {
+      "trigger": "Chương 264: năm điều kiện điểm giao dịch thành phố",
+      "affected": ["city_arc", "governance", "food", "water"],
+      "status": "active_13_percent"
+    },
+    {
+      "trigger": "Chương 267: Phoenix được công nhận tạm thời và ổ sao lưu bị niêm phong",
+      "affected": ["Phoenix I", "Hiếu", "AI_rights"],
+      "status": "active"
+    },
+    {
+      "trigger": "Chương 277: Mộng Điệp tự chọn cứu Định",
+      "affected": ["Lan", "Định", "Mầm Triều"],
+      "status": "active"
+    },
+    {
+      "trigger": "Chương 280: đoàn Bảy Cửa mang bệnh hạt trong suốt",
+      "affected": ["ch_281+", "city_population", "quarantine"],
+      "status": "resolved_to_phase_glass"
+    },
+    {
+      "trigger": "Chương 288: Lan mất liên kết năng lượng với Mộng Điệp",
+      "affected": ["Lan", "Mộng Điệp", "medical_system"],
+      "status": "active"
+    },
+    {
+      "trigger": "Chương 299: Bảo mất tích khi giữ van",
+      "affected": ["Ly", "dead_tide", "future_rescue"],
+      "status": "open"
+    },
+    {
+      "trigger": "Chương 300: Bảy Cửa kích hoạt điểm giao dịch cấp 1",
+      "affected": ["ch_301+", "city_arc", "M.T.C"],
+      "status": "active"
+    },
+    {
+      "trigger": "Chương 307: đề nghị Thị Nại thành khu phụ thuộc Bảy Cửa",
+      "affected": ["internal_politics", "Khôi", "three_month_treaty"],
+      "status": "open_11_supporters"
+    },
+    {
+      "trigger": "Chương 314–316: bản sao Phoenix thức dậy và chọn tên Phượng",
+      "affected": ["Phoenix", "Phượng", "Hiếu", "AI_rights"],
+      "status": "active"
+    },
+    {
+      "trigger": "Chương 317: Mộng Điệp đi vào Mầm Triều",
+      "affected": ["Lan", "Mộng Điệp", "Mầm Triều"],
+      "status": "active"
+    },
+    {
+      "trigger": "Chương 320: Bảy Cửa đề xuất phí giao dịch khu vực 2%",
+      "affected": ["ch_321+", "trade", "city_recognition"],
+      "status": "resolved_to_one_percent_public_fee"
+    },
+    {
+      "trigger": "Chương 324: Hảo mang nợ lao động Bảy Cửa",
+      "affected": ["labor_debt", "trade_law", "future_city_reform"],
+      "status": "active"
+    },
+    {
+      "trigger": "Chương 327–339: Phượng tới và ở lại An Sơn",
+      "affected": ["Phượng", "Phoenix", "helicopter", "An Sơn"],
+      "status": "active"
+    },
+    {
+      "trigger": "Chương 333–338: 68 người Cồn Sắt chia lựa chọn cư trú",
+      "affected": ["city_population", "satellite_governance"],
+      "status": "resolved_31_core_37_satellite"
+    },
+    {
+      "trigger": "Chương 340: Câm chúa lần theo tuyến bạc",
+      "affected": ["ch_341+", "Bảy Cửa", "Xóm Vẹt", "Thị Nại"],
+      "status": "active"
     }
   ],
   "pipeline": {
     "load_layers": true,
     "adjacent_context": true,
     "foreshadowing_ledger": true,
-    "mechanical_review": "passed_191_260",
-    "continuity_review": "passed_191_260"
+    "mechanical_review": "passed_191_340",
+    "continuity_review": "passed_191_340_after_ch325_residency_fix"
   }
 }
